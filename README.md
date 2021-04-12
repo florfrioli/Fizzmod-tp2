@@ -1,2 +1,4 @@
-# Fizzmod-tp2
-Trabajo práctico número 2 Fizzmode Curso NodeJs
+Resolvé los ejercicios en el archivo `tp.js`.
+Para ejecutar los test, anda a esta carpeta y ejecutá:
+`npm install` y luego:
+`npm test`.
